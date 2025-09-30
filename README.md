@@ -8,7 +8,7 @@
 - para evitar la llamada a otro microservicios, se utiliza la replicacion de data
 - **patron saga** - ejecutar los pasos a la inversa, si en algun momento el algun microservicio se cae durante el evento
 - spring 3.5.6 - jdk 17
-- agregar swagger
+- agregar swagger - url http://localhost:8080/swagger-ui/index.html
   ```
   <dependency>
   	<groupId>org.springdoc</groupId>
