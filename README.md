@@ -5,6 +5,7 @@
 - keycloak por si no se quiere implementar un microservicio de seguridad
 - **no existen claves foraneas**
 - por eso ya no se usan integers, si no UUID y GUID
+- para evitar la llamada a otro microservicios, se utiliza la replicacion de data
 ---
 - que es escalar verticalmente? que es escalar horizontalmente?
 - que es gateway? - puerta de entrada para que le front, o un servicio externo, se comunique con el backend. No se hacen llamadas directamente al microservicio, se hace a traves del API gateway, porque ahi estan la seguridad
