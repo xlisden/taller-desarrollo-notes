@@ -13,4 +13,13 @@
 - config server? - medida de seguridad adicional para proteger los datos sensibles
 - seq: https://dev.to/minhaz1217/java-spring-boot-use-seq-for-logging-39fm
   https://github.com/minhaz1217/java-quarkus/tree/master/spring-boot-seq
+- spring 3.5.6 - jdk 17
+- agregar swagger
+  ```
+  <dependency>
+  	<groupId>org.springdoc</groupId>
+  	<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+  	<version>2.5.0</version>
+  </dependency>
+  ```
 ###
