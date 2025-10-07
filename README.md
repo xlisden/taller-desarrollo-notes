@@ -1,4 +1,8 @@
 # taller-desarrollo-notes
+```
+git config user.name "xlisden"
+git config user.email "dayenira.delgado@gmail.com"
+```
 ### 17:12 30/09/2025
 - bus de eventos - a traves de el, se comunican los microservicios
 - se puede hacer un microservicio, que no este conectado a ninguna bd, pero si se encarga de orquestar a los microservicios, y no mezclarlos.
