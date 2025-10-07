@@ -24,4 +24,7 @@
 - seq: https://dev.to/minhaz1217/java-spring-boot-use-seq-for-logging-39fm
    --https://github.com/minhaz1217/java-quarkus/tree/master/spring-boot-seq
 
-###
+### 17:05 7/10/2025
+
+- google drive tiene versionamiento
+- hot fix: cambio en produccion
