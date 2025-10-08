@@ -1,5 +1,5 @@
 # taller-desarrollo-notes
-```
+```bash
 git config user.name "xlisden"
 git config user.email "dayenira.delgado@gmail.com"
 ```
